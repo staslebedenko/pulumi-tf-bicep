@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "root_prefix": {
+      "value": "fbgui06yg"
+    },
+    "environment": {
+      "value": "dev"
+    },
+    "app_name": {
+      "value": "fanfctg4343mn"
+    },
+    "app_insights": {
+      "value": "ai-test-to-delete55e3"
+    },
+    "enable_vnet": {
+      "value": "true"
+    }
+  }
+}
